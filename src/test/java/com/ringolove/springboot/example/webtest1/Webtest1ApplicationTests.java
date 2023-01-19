@@ -1,4 +1,4 @@
-package com.example.webtest1;
+package com.ringolove.springboot.example.webtest1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

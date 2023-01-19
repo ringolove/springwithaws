@@ -1,4 +1,4 @@
-package com.example.webtest1;
+package com.ringolove.springboot.example.webtest1;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
